@@ -1,6 +1,6 @@
 # Spark in Scala
 
-##### This repo contains basic examples of how to work with spark RDD and Spark dataframes in Scala
+#### This repo contains basic examples of how to work with Spark RDD and Spark DataFrames in Scala
 
  - How to create RDD using arrays and some basic api usages
     
