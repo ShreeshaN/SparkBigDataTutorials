@@ -21,7 +21,7 @@
  - RDD transformations
     
         Notes:
-            Spark useless lazy evaluation
+            Spark uses lazy evaluation
             Every transformation creates a new RDD from the exisitng RDD after applying the specified transformation
             
             ## filtering each line in fileRDD and creating a new RDD using filter operation.
